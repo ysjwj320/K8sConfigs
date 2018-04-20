@@ -3,7 +3,7 @@
   环境：centos7
 
 ### 安装
-下载(地址：https://github.com/coreos/etcd/releases)并解压，拷贝etcd，etcdctl到/usr/local/bin下
+下载(地址：https://github.com/coreos/etcd/releases )并解压，拷贝etcd，etcdctl到/usr/local/bin下
 
 ### 创建配置文件（/etc/etcd/etcd.conf.yml）
 配置文件模板：https://github.com/coreos/etcd/blob/master/etcd.conf.yml.sample
